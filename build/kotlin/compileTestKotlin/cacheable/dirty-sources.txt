@@ -1,0 +1,3 @@
+D:\UPB\Anul 2\POO\Tema\src\test\java\CheckerUtils.kt
+D:\UPB\Anul 2\POO\Tema\src\test\java\DesignPatternTests.kt
+D:\UPB\Anul 2\POO\Tema\src\test\java\JsonDataLoadTests.kt
